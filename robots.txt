@@ -1,7 +1,8 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://downloadtt.site/sitemap.xml
+Sitemap: https://ttdownload.site/sitemap.xml
+
 
 
 
